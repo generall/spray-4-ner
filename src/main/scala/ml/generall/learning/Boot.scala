@@ -1,4 +1,4 @@
-package com.example
+package ml.generall.learning
 
 import akka.actor.{ActorSystem, Props}
 import akka.io.IO
